@@ -24,7 +24,4 @@
 * API endpoint for executing a buy order
 * API endpoint for sending notification
 
-## Finishing up
-
-* Add stuff to UI
 
